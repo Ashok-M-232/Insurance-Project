@@ -1,0 +1,15 @@
+.background{
+  margin-top:-20px;
+  background-image: url('../Images/Property-Insurance\ \(1\).jpg');
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh;
+  width: 100%;
+}
+.top {
+  margin-top: 20px;
+  padding: 10px;
+  background: #38779b;
+  color: #fff;
+}

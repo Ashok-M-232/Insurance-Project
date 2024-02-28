@@ -1,0 +1,12 @@
+/* LoginForm.css */
+
+.loginForm {
+    max-width: 300px;
+    margin-left: 70%;
+    padding: 20px;
+    margin-top: -100px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: rgba(255, 255, 255, 0.5);
+  }
+  
